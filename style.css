@@ -1,0 +1,8 @@
+.advantages_logo svg{
+    width: 70px;
+    height: 70px;
+}
+
+.advantages_logo:hover {
+    fill: #2196F3;
+}
